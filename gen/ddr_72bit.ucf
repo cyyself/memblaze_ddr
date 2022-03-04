@@ -29,6 +29,7 @@ NET   "ddr3_dm[4]"                             LOC = "AC7"   |     IOSTANDARD = 
 NET   "ddr3_dm[5]"                             LOC = "AK4"   |     IOSTANDARD = SSTL15               |     VCCAUX_IO = HIGH        ;
 NET   "ddr3_dm[6]"                             LOC = "AK3"   |     IOSTANDARD = SSTL15               |     VCCAUX_IO = HIGH        ;
 NET   "ddr3_dm[7]"                             LOC = "AF6"   |     IOSTANDARD = SSTL15               |     VCCAUX_IO = HIGH        ;
+NET   "ddr3_dm[8]"                             LOC = "AA13"  |     IOSTANDARD = SSTL15               |     VCCAUX_IO = HIGH        ;
 NET   "ddr3_dq[0]"                             LOC = "AH19"  |     IOSTANDARD = SSTL15_T_DCI         |     VCCAUX_IO = HIGH        ;
 NET   "ddr3_dq[10]"                            LOC = "AA18"  |     IOSTANDARD = SSTL15_T_DCI         |     VCCAUX_IO = HIGH        ;
 NET   "ddr3_dq[11]"                            LOC = "AD17"  |     IOSTANDARD = SSTL15_T_DCI         |     VCCAUX_IO = HIGH        ;
